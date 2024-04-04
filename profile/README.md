@@ -1,17 +1,8 @@
-=== UpsellWP - WooCommerce Upsell, Cross Sell, Order Bumps, One Click Upsell, Frequently Bought Together, Next Order Coupons, Product Recommendations ===
-Contributors: flycart
-Donate link: https://upsellwp.com
-Tags: woocommerce, upsell, order bump, boost sales, woocommerce upsell, woocommerce checkout, woocommerce order bump, checkout upsell, cross-sell, coupons, frequently bought together, next order coupon
-Requires at least: 5.3
-Requires PHP: 7.0
-Tested up to: 6.4
-Stable tag: 2.0.0
-License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+# UpsellWP - WooCommerce Upsell, Cross Sell, Order Bumps, One Click Upsell, Frequently Bought Together, Next Order Coupons, Product Recommendations
 
-Boost AOV with WooCommerce Upsell and Cross-sell offers, Checkout Upsells, Cart Upsells, Next Order Coupons, Product Recommendations and more.
+[UpsellWP](https://upsellwp.com/?utm_source=upsell-wp-github-pro-version&utm_medium=wprepo&utm_campaign=upsell-pro) helps you Boost AOV with WooCommerce Upsell and Cross-sell offers, Checkout Upsells, Cart Upsells, Next Order Coupons, Product Recommendations and more.
 
-== Description ==
+## Description
 
 Boost your WooCommerce store's sales with our All-in-One **#1 WooCommerce Upsell Plugin**. It lets you create one-click upsell offers in the store, helping you to increase the Average Order Value and boost sales easily.
 
@@ -59,8 +50,7 @@ With all WooCommerce Upsell features, you can strategically position tempting of
 
 Crafted meticulously to elevate your sales strategy, the plugin lets you customize offers for specific customer groups. You can display offers based on the products in the cart, product category, order value and so on. This precision targeting not only enhances customer satisfaction by presenting them with highly relevant deals but also fuels a substantial uplift in your sales.
 
-== Types of Upsell and Cross-Sell Opportunities ==
-
+### Types of Upsell and Cross-Sell Opportunities
 The following is a list of upsell and cross-sell opportunities, which can help skyrocket the sales and boost the average order value.
 
 * Checkout Upsell - displayed at the checkout page
@@ -257,7 +247,7 @@ Choosing the PRO version means upgrading your sales game. Not only do you get al
 
 [View Demo](https://demo.flycart.net/upsell-live?utm_source=upsell-wp-repo-view-demo&utm_medium=wprepo&utm_campaign=checkout-upsell-pro) | [Documentation with real examples](https://docs.upsellwp.com/) | [PRO version](https://upsellwp.com/?utm_source=upsell-wp-repo-pro-version&utm_medium=wprepo&utm_campaign=upsell-pro)
 
-= Smart Product Recommendations Engine =
+## Smart Product Recommendations Engine for WooCommerce
 
 Create highly targeted, personalized product recommendations for every shopper in your store and skyrocket your sales.
 Let our algorithm generate the smart recommendations for you, instead of manually creating the upsells & cross-sells. 
@@ -274,70 +264,21 @@ Here some of the examples:
 - New arrivals
 - Popular among customers in geographies
 
-= Video Tutorials =
+## Video Tutorials
 
 Explore our [Video Tutorials on YouTube](https://www.youtube.com/@UpsellWP/videos) for helpful insights on our Upsell plugin.
 
-= Documentation =
+## Documentation
 
 We have created step-by-step guides to create order bumps in WooCommerce and upsell offers. [Check out our documentation](https://docs.upsellwp.com/)
 
-= Need assistance setting up your Upsell offers? Reach out to us =
+## Need assistance setting up your Upsell offers? Reach out to us
 
 Experiencing any issues or have any questions? Our dedicated support team is here to help! Please reach out to us through our [support request form](https://upsellwp.com//support). We are happy to help you and guide you with the setup.
 
-= Website =
+## Website
 
 Visit [UPsellWP - WooCommerce Upsell, Cross Sell and Order Bumps PRO plugin ](https://upsellwp.com/?utm_source=upsell-wp-repo-website&utm_medium=wprepo&utm_campaign=upsell-pro) page to learn more.
-
-== Installation ==
-
-1. Download the Upsell for WooCommerce by UpsellWP plugin.
-2. Upload the plugin files to your /wp-content/plugins/ directory, or install the plugin through the WordPress dashboard -> Plugins -> Add New section directly (search for UpsellWP").
-3. Activate the plugin through the 'Plugins' screen in WordPress.
-4. Navigate to your WordPress dashboard -> UpsellWP
-5. Here, you can add your upsell offers and order bumps and configure your settings as per your needs.
-
-= Minimum Requirements =
-
-* WordPress 5.3 or greater
-* WooCommerce 4.3 or greater
-* PHP version 7.0 or greater
-* MySQL version 5.0 or greater
-
-== Frequently asked questions ==
-
-= How to setup WooCommerce Order Bumps =
-Please follow the steps below to create a WooCommerce Order Bump:
-1. Install and activate the Upsell for WooCommerce by UpsellWP plugin
-2. Create a Checkout upsells campaign
-3. Choose the offer product and configure the offer
-4. Choose the offer display location
-5. Save and set live.
-Now your customers will see the order bump at the WooCommerce Checkout
-
-= How to create a WooCommerce One-click Upsell offer =
-
-Please following the steps below to create a WooCommerce One-click Upsell offer:
-1. Install and activate the Upsell for WooCommerce by UpsellWP plugin
-2. Create a Checkout upsells campaign
-3. Choose the offer product
-4. Set up the conditions to display the offer
-4. Choose the offer display location
-5. Save and set live (You can also schedule it for specific period as well).
-Now your customers will see the order bump at the WooCommerce Checkout
-
-= Can I customize the offer templates? =
-
-Yes. You can customize the template, change the text, background, colors, images and more to fit your branding.
-
-= How to create an order bump based on the items in the cart? =
-
-When creating an upsell campaign, choose the "Items in the cart" condition and choose the products. Now, the order bump will show only when the selected products are found in the cart.
-
-= How to show more than one order bump on the checkout page? =
-
-The PRO version allows you to show more than one order bump on the checkout page.
 
 = How to A/B test the order bump offers? =
 
