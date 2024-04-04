@@ -11,7 +11,7 @@ Show your customers an exclusive offer deal at an unbelievable price at the very
 
 Relevant offers can be set for specific targets with WooCommerce Order Bump Plugin which ensures customer satisfaction and thus result in improved sales improvements.
 
-== The Free version of UpsellWP comes with the following upsell features: ==
+### The Free version of UpsellWP comes with the following upsell features:
 * **Checkout Upsells** - displays upsell offers at the checkout. These are one-click upsell offers in WooCommerce.
 * **Cart Upsells** - displays WooCommerce Upsell offers at the cart page.
 * **Frequently Bought Together** - displays the related products & upsell products on the product detail page just like in Amazon's "People also bought these together". Best for selling products in bundles.
@@ -26,7 +26,7 @@ Relevant offers can be set for specific targets with WooCommerce Order Bump Plug
 * Scheduled upsell campaigns
 * Limited number of upsell campaigns
 
-== The PRO version of UpsellWP comes with the following upsell features: ==
+### The PRO version of UpsellWP comes with the following upsell features:
 
 All features in the Free version, PLUS, the [PRO version](https://upsellwp.com/?utm_source=upsell-wp-repo-pro-version&utm_medium=wprepo&utm_campaign=upsell-pro) offers:
 
@@ -279,11 +279,3 @@ Experiencing any issues or have any questions? Our dedicated support team is her
 ## Website
 
 Visit [UPsellWP - WooCommerce Upsell, Cross Sell and Order Bumps PRO plugin ](https://upsellwp.com/?utm_source=upsell-wp-repo-website&utm_medium=wprepo&utm_campaign=upsell-pro) page to learn more.
-
-= How to A/B test the order bump offers? =
-
-The PRO version allows you to create multiple offers in the same campaign and choose the "A/B testing" mode to measure the performance of the offers.
-
-= How to change the location of the order bumps in WooCommerce? =
-
-The plugin currently supports displaying the offers in 4 different places in the checkout - Before the Place order button, after the place order button, bottom of the checkout page or before the payment methods. You can change the location in your upsell campaign settings.
